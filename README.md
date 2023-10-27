@@ -3,3 +3,4 @@
 * café
 * azúcar
 * leche
+* galletas
